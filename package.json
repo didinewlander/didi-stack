@@ -1,6 +1,6 @@
 {
   "name": "didi-stack",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CLI tool to set up a simple fullstack web project",
   "main": "setup.js",
   "type": "module",
@@ -10,9 +10,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["cli", "fullstack", "web", "frontend", "project", "setup", "didi"],
   "author": "Didi-Tech",
   "license": "MIT",
+  "repository": {"type": "git", "url": "https://github.com/didinewlander/didi-stack"},
   "dependencies": {
     "chalk": "^4.1.2",
     "clear": "^0.1.0",
