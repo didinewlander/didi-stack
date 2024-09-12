@@ -77,7 +77,3 @@ After the project is set up, the default landing page is replaced with a clean, 
 - Shadcn/UI
 
 ---
-
-### Author
-
-**didi-stack** was created by [Your Name]. If you find this tool helpful, feel free to reach out or contribute.
