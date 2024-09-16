@@ -1,7 +1,9 @@
 
-# didi-stack - fast way to setup your frontend UI
+# didi-stack
 
 **didi-stack** is a CLI tool that helps you quickly set up a basic frontend project using Vite, React, TypeScript, TailwindCSS, and Shadcn/UI. This tool simplifies the initial setup process for developers, allowing you to get started with a robust stack quickly and efficiently.
+
+>`This tool is still in development - please use with notice that a few things still needs manual configuration`
 
 ## Features
 
@@ -77,3 +79,7 @@ After the project is set up, the default landing page is replaced with a clean, 
 - Shadcn/UI
 
 ---
+
+### Author
+
+**didi-stack** was created by Didi-Tech. If you find this tool helpful, feel free to reach out or contribute.
